@@ -13,3 +13,8 @@ Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScr
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caiiuu3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiiu_3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioalcantarasantos3@gmail.com)
+
+
+Techs: 
+
+<img align='center' alt='html-icon' height: '30' width: '40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
