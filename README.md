@@ -17,4 +17,4 @@ Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScr
 
 Techs: 
 
-<img img align="center" alt="icon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img img align="center" alt="icon-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
