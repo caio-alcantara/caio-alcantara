@@ -2,7 +2,7 @@
 
 ## My name is Caio de Alcantara Santos
 
-<span> style="font-size: 4em;" Im a 16 years old student from Brazil </span>
+<span style="font-size: 4em;"> Im a 16 years old student from Brazil </span>
 
 So, currently I already learned the basics of Python 🐍, and am now learing Web Development 🕸️;
 Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScript and some framework (I've never used one, but I already show some affection for react u.u)
