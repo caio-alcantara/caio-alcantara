@@ -24,11 +24,9 @@ Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScr
 <div>
   
   <a href='https://github.com/caio-alcantara/social-proof-section-master'><img align='center' alt='repo-image' height='300' width='400' src='https://user-images.githubusercontent.com/95832094/155885866-2d05d57d-7424-46b6-be53-6bd5f2747f93.jpg'></a>
-  
   <a href='https://github.com/caio-alcantara/huddle-landing-page'><img align='center' alt='repo-image' height='300' width='400' src='https://user-images.githubusercontent.com/95832094/155885958-f45acd30-f93e-42b3-81c6-1432c574628e.jpg'></a>
   
   <a href='https://github.com/caio-alcantara/3-column-preview-card-component'><img align='center' alt='repo-image' height='300' width='400' src='https://user-images.githubusercontent.com/95832094/155886020-780ccad6-cb88-4715-973f-b01763607731.jpg'></a>
-  
   <a href='https://github.com/caio-alcantara/StatsPreviewCard'><img align='center' alt='repo-image' height='300' width='400' src='https://user-images.githubusercontent.com/95832094/155886068-d85ac402-3991-449e-83dc-dad31525f737.jpg'></a>
   
 </div>
