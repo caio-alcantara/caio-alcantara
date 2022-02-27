@@ -2,7 +2,7 @@
 
 ## My name is Caio de Alcantara Santos
 
-<font size=”20px″> Im a 16 years old student from Brazil> 
+<span> style="font-size: 4em;" Im a 16 years old student from Brazil </span>
 
 So, currently I already learned the basics of Python 🐍, and am now learing Web Development 🕸️;
 Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScript and some framework (I've never used one, but I already show some affection for react u.u)
@@ -20,5 +20,4 @@ Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScr
   <img align="center" alt="icon-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="icon-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="icon-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
 </div>
