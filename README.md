@@ -11,3 +11,4 @@ Currently focusing on HTML5 and CSS3, but I hope to be soon working with JavaScr
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-alcantara&layout=compact&theme=tokyonight"/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caiiuu3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioalcantarasantos3@gmail.com)
