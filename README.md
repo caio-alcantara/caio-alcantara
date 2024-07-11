@@ -1,11 +1,8 @@
 # Hi 👋 My name is Caio de Alcantara Santos
 
-Im a 18 years old student from Brazil
+Im a 19 years old Computer Engineering Student @ Inteli |
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-alcantara&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-alcantara&layout=compact&theme=tokyonight"/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caio-alcantara&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caiiuu3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiiu_3/)
