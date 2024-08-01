@@ -20,6 +20,8 @@ Im a 19 years old Computer Engineering Student @ Inteli |
   <img align="center" alt="icon-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="icon-arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="icon-kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
+  <img align="center" alt="icon-circleci" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" />
+  <img align="center" alt="icon-circleci" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" />
 </div>
 
 
