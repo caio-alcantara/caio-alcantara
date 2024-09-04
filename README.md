@@ -1,6 +1,6 @@
 # Hi 👋 My name is Caio de Alcantara Santos
 
-Im a 19 years old Computer Engineering Student @ Inteli |
+Im a 19 years old Computer Engineering Student @ <a href="https://www.inteli.edu.br/">Inteli</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caio-alcantara&theme=dark&background=000000)](https://git.io/streak-stats)
   
