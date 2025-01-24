@@ -1,9 +1,9 @@
 # Hi 👋 My name is Caio de Alcantara Santos
 
 Im a 19 years old Computer Engineering Student @ <a href="https://www.inteli.edu.br/">Inteli</a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caio-alcantara&theme=dark&background=000000)](https://git.io/streak-stats)
   
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-alcantara)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caiiuu3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiiu_3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioalcantarasantos3@gmail.com)
